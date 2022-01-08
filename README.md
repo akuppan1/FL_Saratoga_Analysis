@@ -17,10 +17,18 @@ I was curious what this data had to offer. There were many columns that I could 
 I only took the columns “ACREAGE”, “LANDUSECODE” since they were the most sensible out the data.
 
 Here is what I found:
+![ACREAGE_DESCRIBE](https://user-images.githubusercontent.com/62908910/148655141-54ca7857-020a-435b-b9ce-031a94574cc8.PNG)
 The acreage distribution has a standard deviation of 9, which is pretty high. Also someone bought 150 acres of land. That is nuts!
+![Future_Land_Use_Acreage_bins](https://user-images.githubusercontent.com/62908910/148655154-dd96c9f3-48f2-4d05-83da-20347758aa56.PNG)
 We see that those are outliers. Most of the acres sectioned out is up to 10 acres
+![Land_Use_Acreage_Frequency](https://user-images.githubusercontent.com/62908910/148655162-5f699501-1bf0-4227-b059-ae3c80018c22.PNG)
 Narrowing it down even further we see that there are mostly up to 4 acres of land
+![Land_Use_Code_Distribution](https://user-images.githubusercontent.com/62908910/148655175-d165d322-ed85-4596-933e-6977dc3b41d4.PNG)
 This is the land use code distribution. We see that most of the Land Use Codes full under single family homes “SF-LOW” and “SF-VL”
+
+![Land_Use_Code_Value_Counts](https://user-images.githubusercontent.com/62908910/148655191-fd11a29f-d27d-4695-8153-a77336baf487.PNG)
+
+
 Doing a quick value count shows us that 800 codes are for single family homes. Very few multifamily homes are being built. This would make sense if it was a place to go retire to with your own home.
 
 So what does this data tell us? It says that there is land sectioned out for the purposes of construction mostly for single family homes and a handful of other home types.
