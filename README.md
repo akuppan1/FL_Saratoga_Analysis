@@ -17,7 +17,7 @@ I was curious what this data had to offer. There were many columns that I could 
 I only took the columns “ACREAGE”, “LANDUSECODE” since they were the most sensible out the data.
 
 Here is what I found:
-![ACREAGE_DESCRIBE](https://user-images.githubusercontent.com/62908910/148655141-54ca7857-020a-435b-b9ce-031a94574cc8.PNG)
+![ACREAGE_DESCRIBE](https://user-images.githubusercontent.com/62908910/148655141-54ca7857-020a-435b-b9ce-031a94574cc8.PNG)</br>
 The acreage distribution has a standard deviation of 9, which is pretty high. Also someone bought 150 acres of land. That is nuts!
 ![Future_Land_Use_Acreage_bins](https://user-images.githubusercontent.com/62908910/148655154-dd96c9f3-48f2-4d05-83da-20347758aa56.PNG)
 We see that those are outliers. Most of the acres sectioned out is up to 10 acres
